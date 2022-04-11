@@ -1,6 +1,6 @@
 # トラストをともに駆ける
 ## DevOpsにおけるコンプライアンス対応の要所
-[レポート本体](https://www.google.co.jp/)
+[レポート本体](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2022/assets/pdf/dev-ops220228.pdf)
 ### レポートについて
 目まぐるしく変化する現代において、ソフトウェアを高速で開発するアジャイルやDevOpsが活用されています。  
 一方で、これらの手法・思想は、規制対応や認証制度への適合などのコンプライアンス領域においてしばしば問題に直面します。  
