@@ -18,5 +18,5 @@
 GitHub.com上で頂いた御意見に関しましては、レポート執筆メンバー等で精査し、レポート改訂の検討材料とします。 
 
 ### 関連
-[DevOpsDays Tokyo 2022 スライド](https://github.com/PwC-Aarata-SPA/DevOps-and-Compliance/blob/main/DODT-Material-Slido.pdf)
+[DevOpsDays Tokyo 2022 スライド](https://github.com/PwC-Aarata-SPA/DevOps-and-Compliance/blob/main/DODT-Material-Slido.pdf)  
 [PwC公式サイト](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2022/assets/pdf/dev-ops220228.pdf)  
