@@ -1,6 +1,6 @@
 # トラストをともに駆ける
 ## DevOpsにおけるコンプライアンス対応の要所
-[レポート本体](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2022/assets/pdf/dev-ops220228.pdf)
+[レポート本体](https://github.com/PwC-Aarata-SPA/DevOps-and-Compliance/blob/main/dev-ops220228.pdf)  
 
 ### レポートについて
 目まぐるしく変化する現代において、ソフトウェアを高速で開発するアジャイルやDevOpsが活用されています。  
@@ -19,3 +19,4 @@ GitHub.com上で頂いた御意見に関しましては、レポート執筆メ�
 
 ### 関連
 [DevOpsDays Tokyo 2022 スライド](https://github.com/PwC-Aarata-SPA/DevOps-and-Compliance/blob/main/DODT-Material-Slido.pdf)
+[PwC公式サイト](https://www.pwc.com/jp/ja/knowledge/thoughtleadership/2022/assets/pdf/dev-ops220228.pdf)  
